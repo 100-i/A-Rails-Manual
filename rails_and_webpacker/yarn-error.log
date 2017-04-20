@@ -1,0 +1,26 @@
+Arguments: 
+  /usr/local/node/node-v7.9.0/bin/node /usr/share/yarn/bin/yarn.js add --dev webpack-dev-server
+
+PATH: 
+  /usr/local/rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bin:/usr/local/rbenv/versions/2.4.1/bin:/usr/local/rbenv/libexec:/usr/local/rbenv/plugins/ruby-build/bin:/usr/local/rbenv/plugins/rbenv-vars/bin:/home/vagrant/bin:/home/vagrant/.local/bin:/usr/local/rbenv/shims:/usr/local/rbenv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/opt/puppetlabs/bin
+
+Yarn version: 
+  0.23.2
+
+Node version: 
+  7.9.0
+
+Platform: 
+  linux x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: EPROTO: protocol error, symlink '../../../errno/cli.js' -> '/vagrant/rails_and_webpacker/node_modules/memory-fs/node_modules/.bin/errno'
